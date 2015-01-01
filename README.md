@@ -1,4 +1,4 @@
-personal
+All Personal Projects
 ========
 
-All Learning projects
+All Learning projects. May not be good for general public.

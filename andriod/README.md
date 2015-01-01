@@ -1,4 +1,4 @@
-personal
+All Andriod Learning
 ========
 
-All Learning projects
+Basic Learning projects for Andriod development.
